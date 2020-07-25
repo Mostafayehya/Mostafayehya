@@ -1,6 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🌱 I’m currently learning java backend development using Spring framework.
+- 💬 Ask me about Spring, Java, Android.
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/mostafa-yehya-a150b783/)
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mostafayehya&show_icons=true&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
