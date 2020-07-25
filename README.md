@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java backend development using Spring framework.
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mostafayehya)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mostafayehya&show_icons=true&count_private=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
