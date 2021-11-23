@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🌱 I’m currently learning java backend development using Spring framework.
-- 💬 Ask me about Spring, Java, Spring, Clean Code.
+- 💬 Ask me about Java, Spring, Clean Code.
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/mostafa-yehya-a150b783/)
 
 
